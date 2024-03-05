@@ -1,3 +1,4 @@
+Shopping_Cart_React
 ![Captura de tela de 2024-01-23 17-12-51](https://github.com/davigotardi/shopping-cart/assets/143345302/ac0450b9-9515-448e-ac37-2d386a2def11)
 
 
